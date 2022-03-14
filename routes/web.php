@@ -14,5 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return '<h1><center>welcome, manytomany</center></h1>';
+    return '<h1><center>welcome to the, manytomany relation crud</center></h1>';
 });
